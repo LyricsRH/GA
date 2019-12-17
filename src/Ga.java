@@ -1,6 +1,7 @@
 
 public class Ga {
 
+    //ga
     private static final double mutationRate = 0.15;
     private static final int tournamentSize = 15;
     private static final boolean elitism = true;
